@@ -2,6 +2,6 @@
 sort: 3
 ---
 
-# Writing Related
+# Blender
 
 {% include list.liquid %}
